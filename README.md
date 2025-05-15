@@ -22,21 +22,21 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
+- Web Server: Apache, LiteSpeed, or IIS with the URL Rewrite module enabled.
 
-- Item 2
+- PHP: Version 8.1 or 8.2 (recommended).
 
-- Item 3
+- Database: MySQL 5.5 or newer.
 
-- Item 4
+- MySQL User: A user with full privileges on a dedicated database. 
 
-- Item 5
+- A project (e.g., "Building a website or starting a business")
 
 <h2>Installation Steps</h2>
 
 <p>
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://www.rosehosting.com/blog/wp-content/uploads/2022/04/installing-osticket-on-almalinux.webp" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 </p>
 
@@ -50,7 +50,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <p>
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://assets.techrepublic.com/uploads/2023/01/tr11823-osticketa-770x690.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 </p>
 
@@ -64,7 +64,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <p>
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://try.direct/files/osticket-installer-step3.webp" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 </p>
 
